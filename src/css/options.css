@@ -13,20 +13,26 @@
 /*padding-line*/
 .padding-line-5{padding: 5px 0px;}
 .padding-line-10{padding: 10px 0px;}
-.padding-line-20{padding: 20px; 0px}
+.padding-line-20{padding: 20px 0px;}
 
 /*padding-column*/
 .padding-column-5{padding: 0px 5px;}
 .padding-column-10{padding: 0px 10px;}
-.padding-column-20{padding: 0px; 20px}
+.padding-column-20{padding: 0px 20px;}
+
+
+/*margin-line*/
+.margin-5{margin: 5px 5px;}
+.margin-10{margin: 10px 10px;}
+.margin-20{margin: 20px 20px;}
 
 /*margin-line*/
 .margin-line-5{margin: 5px 0px;}
 .margin-line-10{margin: 10px 0px;}
-.margin-line-20{margin: 20px; 0px}
+.margin-line-20{margin: 20px 0px;}
 
 /*margin-column*/
 .margin-column-5{margin: 0px 5px;}
 .margin-column-10{margin: 0px 10px;}
-.margin-column-20{margin: 0px; 20px}
+.margin-column-20{margin: 0px 20px;}
 

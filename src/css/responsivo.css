@@ -1,3 +1,19 @@
+
+/*All display*/
+.col-all-12{width: 100%;}
+.col-all-11{width: 91.66666667;}
+.col-all-10{width: 83.333;}
+.col-all-9{width: 75%;}
+.col-all-8{width: 66.66667%; }
+.col-all-7{width: 58.33333%;}
+.col-all-6{width: 50%;}
+.col-all-5{width: 41.66667%;}
+.col-all-4{width: 33.33333%;}
+.col-all-3{width: 25%;}
+.col-all-2{width: 16.66667%;}
+.col-all-1{width: 8.333333%;}
+
+
 /*desktop*/
 .col-desktop-12{width: 100%;}
 .col-desktop-11{width: 91.66666667;}
@@ -39,29 +55,3 @@
 .col-phone-3{width: 25%;}
 .col-phone-2{width: 16.66667%;}
 .col-phone-1{width: 8.333333%;}
-
-/*padding*/
-.padding-5{padding: 5px;}
-.padding-10{padding: 10px;}
-.padding-20{padding: 20px;}
-
-/*padding-line*/
-.padding-line-5{padding: 5px 0px;}
-.padding-line-10{padding: 10px 0px;}
-.padding-line-20{padding: 20px; 0px}
-
-/*padding-column*/
-.padding-column-5{padding: 0px 5px;}
-.padding-column-10{padding: 0px 10px;}
-.padding-column-20{padding: 0px; 20px}
-
-/*margin-line*/
-.margin-line-5{margin: 5px 0px;}
-.margin-line-10{margin: 10px 0px;}
-.margin-line-20{margin: 20px; 0px}
-
-/*margin-column*/
-.margin-column-5{margin: 0px 5px;}
-.margin-column-10{margin: 0px 10px;}
-.margin-column-20{margin: 0px; 20px}
-
